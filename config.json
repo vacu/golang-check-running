@@ -1,0 +1,9 @@
+{
+    "daemons": [
+        "subscriptions",
+        "rebills",
+        "singleevents"
+    ],
+
+    "interval": 5
+}
